@@ -25,7 +25,7 @@ Tools: Conda, PyCharm, Pandas, APScheduler, gTTS
 ⚙️ Installation Guide
 1. Install Conda
 
-  1.1 If you don’t have Conda installed, download and install either
+   1.1 If you don’t have Conda installed, download and install either
 Miniconda
  or Anaconda
 
