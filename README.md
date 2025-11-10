@@ -25,14 +25,14 @@ Tools: Conda, PyCharm, Pandas, APScheduler, gTTS
 ⚙️ Installation Guide
 1. Install Conda
 
-If you don’t have Conda installed, download and install either
+  1.1 If you don’t have Conda installed, download and install either
 Miniconda
  or Anaconda
 .
 
 2. Create a New Environment
-conda create -n attendance python=3.6
-conda activate attendance
+  2.1 conda create -n attendance python=3.6
+  2.2 conda activate attendance
 
 3. Install Dependencies
 ```
@@ -49,11 +49,11 @@ pip install APScheduler
 
 4. Set Up the Database
 
-Open your database management tool (e.g., phpMyAdmin or MySQL Workbench).
+   4.1 Open your database management tool (e.g., phpMyAdmin or MySQL Workbench).
 
-Create a new database named recognition.
+   4.2 Create a new database named recognition.
 
-Import the provided recognition.sql file from the project folder.
+   4.3 Import the provided recognition.sql file from the project folder.
 
 ▶ Running the Project
 ```bash
