@@ -64,6 +64,7 @@ python main.py
 After launching, the system will initialize your webcam for facial recognition and start processing real-time attendance.
 
 ***Key Functionalities***
+
 Feature	Description
 Facial Recognition	Identifies and verifies students in real time using Facenet.
 Anti-Spoofing	Detects fake inputs (photos or videos) using Haar cascades.
