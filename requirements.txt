@@ -1,0 +1,8 @@
+opencv-python==4.3.0.38
+tensorflow==2.4.0
+scikit-learn== 0.24.2
+Pillow
+PyMySQL
+pandas
+gTTS
+APScheduler
