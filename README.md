@@ -28,7 +28,6 @@ Tools: Conda, PyCharm, Pandas, APScheduler, gTTS
   1.1 If you don’t have Conda installed, download and install either
 Miniconda
  or Anaconda
-.
 
 2. Create a New Environment
   2.1 conda create -n attendance python=3.6
